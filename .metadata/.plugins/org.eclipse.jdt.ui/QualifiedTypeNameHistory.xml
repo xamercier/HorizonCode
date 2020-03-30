@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.communicationsystem.Server"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.communicationsystem.Client"/>
+<fullyQualifiedTypeName name="java.util.BitSet"/>
+<fullyQualifiedTypeName name="com.pi4j.io.i2c.I2CDevice"/>
+<fullyQualifiedTypeName name="com.pi4j.io.i2c.I2CBus"/>
+<fullyQualifiedTypeName name="com.pi4j.io.i2c.I2CFactory"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.utils.i2c.I2CLcdDisplay"/>
+<fullyQualifiedTypeName name="LiquidCrystal_I2C"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.utils.i2c.LiquidCrystal_I2C"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.threads.Lcd"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.utils.i2c.mpu6050.MPU6050"/>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.communicationsystem.ServerClient"/>
+<fullyQualifiedTypeName name="java.net.Inet4Address"/>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.MainCommandCenter"/>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.MainFrame"/>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.rocketcommands.RocketCommands"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.utils.CommandCenterCommands"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.utils.RocketState"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.flight.FlightController"/>
+<fullyQualifiedTypeName name="ca.lectus.rocket.MainRocket"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="ca.lectus.ca.commandcenter.utils.TextFileUtils"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.FileHandler"/>
+<fullyQualifiedTypeName name="java.util.logging.SimpleFormatter"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,68 @@
+NewState: Initialising
+NewState: Ready
+NewState: InFlight
+NewState: Descent
+NewState: Aborded
+NewState: FlightDone
+
+FlightCommand: Launch
+FlightCommand: Abort
+FlightCommand: TestTVC
+
+
+
+
+
+
+
+
+A FAIRE:
+	
+		FLIGHTCONTROLLER:
+							change les states quand necessaire 
+																FLIGHTDONE
+
+
+
+
+
+
+			/*
+			System.out.println("-----------------------------------------------------");
+			/*
+			 * // Accelerometer 
+			 System.out.println("Accelerometer:"); double[]
+			 * accelAngles = mpu6050.getAccelAngles(); System.out.println("\t" +
+			 * MPU6050.xyzValuesToString(MPU6050.angleToString(accelAngles[0]),
+			 * MPU6050.angleToString(accelAngles[1]),
+			 * MPU6050.angleToString(accelAngles[2])));
+			 * 
+			 * double[] accelAccelerations = mpu6050.getAccelAccelerations();
+			 * System.out.println("\tAccelerations: " +
+			 * MPU6050.xyzValuesToString(MPU6050.accelToString(
+			 * accelAccelerations[0]),
+			 * MPU6050.accelToString(accelAccelerations[1]),
+			 * MPU6050.accelToString(accelAccelerations[2])));
+			 */
+
+			/*
+			 * // Gyroscope System.out.println("Gyroscope:"); double[]
+			 * gyroAngles = mpu6050.getGyroAngles(); System.out.println("\t" +
+			 * MPU6050.xyzValuesToString(MPU6050.angleToString(gyroAngles[0]),
+			 * MPU6050.angleToString(gyroAngles[1]),
+			 * MPU6050.angleToString(gyroAngles[2])));
+			 * 
+			 * double[] gyroAngularSpeeds = mpu6050.getGyroAngularSpeeds();
+			 * System.out.println("\t" +
+			 * MPU6050.xyzValuesToString(MPU6050.angularSpeedToString(
+			 * gyroAngularSpeeds[0]),
+			 * MPU6050.angularSpeedToString(gyroAngularSpeeds[1]),
+			 * MPU6050.angularSpeedToString(gyroAngularSpeeds[2])));
+			 */
+
+			/*
+			System.out.println("Filtered angles:");
+			double[] filteredAngles = mpu6050.getFilteredAngles();
+			System.out.println(MPU6050.xyzValuesToString(MPU6050.angleToString(filteredAngles[0] - 180),
+					MPU6050.angleToString(filteredAngles[1] - 180), MPU6050.angleToString(filteredAngles[2])));
+			*/

@@ -1,0 +1,17 @@
+1580089954556	Delete element
+1580090070151	Delete element
+1580090950847	Rename package 'ca.lectus.rocket.server'
+1580091913521	Rename type 'Main'
+1580092209988	Move compilation unit
+1580092213965	Move compilation unit
+1580092217852	Move compilation unit
+1580092221847	Delete element
+1580162576246	Delete element
+1580171555925	Rename package 'ca.lectus.rocket.utils.i2c'
+1580171566246	Delete element
+1580171593693	Delete element
+1580172199297	Delete element
+1580181435338	Move compilation unit
+1580184029196	Encapsulate field 'name'
+1580336471243	Rename package 'ca.lectus.rocket'
+1580336496774	Rename type 'MainRocket'
